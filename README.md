@@ -27,10 +27,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Data Analyst
+### Data Analyst
 
--   🔭 I’m currently working on various projects :grin:
--   🌱 I’m a Data Analyst.
+-   🔭 I’m currently working as Data Analyst :grin:
+-   🌱 I have done and am doing various automation projects.
 -   👯 I’m looking to collaborate with other Developers :wink:
 -   🥅 2025 Goals: Learn and try new things
 -   🧗 I try to: Explore new paths and push my limits
